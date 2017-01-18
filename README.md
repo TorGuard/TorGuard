@@ -36,3 +36,25 @@ Find out if your device is capable to run OpenWRT and on which version. This add
 
 ### Affilate Links
 * **COMMING SOON**
+
+### Screenshots of Openwrt's TorGuard VPN App for Luci WebIf
+![Status Page](https://i.imgur.com/LLoXe1Q.png)
+
+![Reboot Page](https://i.imgur.com/qmuR634.png)
+
+![TorGuardVPN Page](https://i.imgur.com/st2e2sc.png)
+
+![TorGuarn VPN Log Page](https://i.imgur.com/M1sjQKl.png)
+
+![Config - Basic1 TorGuard_AUSTRALIA_AES128CBC_SHA256_TLS_Compression](https://i.imgur.com/RLfx0GP.png)
+
+![Config - Basic2 TorGuard_AUSTRALIA_AES128CBC_SHA256_TLS_Compression](https://i.imgur.com/hmIXY6Z.png)
+
+![Conig - Advanced - Sevice](https://i.imgur.com/k5QBM8n.png)
+
+![Conig - Advanced - Networking](https://i.imgur.com/wUJ3Dub.png)
+
+![Conig - Advanced - VPN](https://i.imgur.com/ws3nwwk.png)
+
+![Conig - Advanced - Cryptography](https://i.imgur.com/iln1ZJm.png)
+
